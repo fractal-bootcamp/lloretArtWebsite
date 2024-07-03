@@ -1,0 +1,202 @@
+[
+  {
+    "symbol": "NVDA",
+    "name": "NVIDIA Corporation",
+    "price": "122.67",
+    "change": "-1.63",
+    "percentageChange": "-1.31%",
+    "volume": "213.727M"
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla, Inc.",
+    "price": "231.26",
+    "change": "+21.40",
+    "percentageChange": "+10.20%",
+    "volume": "201.635M"
+  },
+  {
+    "symbol": "RIVN",
+    "name": "Rivian Automotive, Inc.",
+    "price": "14.89",
+    "change": "+0.97",
+    "percentageChange": "+6.97%",
+    "volume": "87.235M"
+  },
+  {
+    "symbol": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "price": "164.31",
+    "change": "+6.62",
+    "percentageChange": "+4.20%",
+    "volume": "56.8M"
+  },
+  {
+    "symbol": "SIRI",
+    "name": "Sirius XM Holdings Inc.",
+    "price": "3.1000",
+    "change": "+0.2200",
+    "percentageChange": "+7.64%",
+    "volume": "53.669M"
+  },
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "price": "220.27",
+    "change": "+3.52",
+    "percentageChange": "+1.62%",
+    "volume": "56.717M"
+  },
+  {
+    "symbol": "F",
+    "name": "Ford Motor Company",
+    "price": "12.87",
+    "change": "+0.11",
+    "percentageChange": "+0.86%",
+    "volume": "46.457M"
+  },
+  {
+    "symbol": "MARA",
+    "name": "Marathon Digital Holdings, Inc.",
+    "price": "22.12",
+    "change": "-0.44",
+    "percentageChange": "-1.95%",
+    "volume": "47.027M"
+  },
+  {
+    "symbol": "AMZN",
+    "name": "Amazon.com, Inc.",
+    "price": "200.00",
+    "change": "+2.80",
+    "percentageChange": "+1.42%",
+    "volume": "44.86M"
+  },
+  {
+    "symbol": "NIO",
+    "name": "NIO Inc.",
+    "price": "4.5300",
+    "change": "+0.0900",
+    "percentageChange": "+2.03%",
+    "volume": "34.774M"
+  },
+  {
+    "symbol": "T",
+    "name": "AT&T Inc.",
+    "price": "18.82",
+    "change": "-0.16",
+    "percentageChange": "-0.84%",
+    "volume": "29.402M"
+  },
+  {
+    "symbol": "PLTR",
+    "name": "Palantir Technologies Inc.",
+    "price": "25.83",
+    "change": "-0.05",
+    "percentageChange": "-0.19%",
+    "volume": "31.495M"
+  },
+  {
+    "symbol": "INTC",
+    "name": "Intel Corporation",
+    "price": "31.07",
+    "change": "+0.23",
+    "percentageChange": "+0.75%",
+    "volume": "33.971M"
+  },
+  {
+    "symbol": "SOFI",
+    "name": "SoFi Technologies, Inc.",
+    "price": "6.45",
+    "change": "+0.02",
+    "percentageChange": "+0.31%",
+    "volume": "26.862M"
+  },
+  {
+    "symbol": "NKE",
+    "name": "NIKE, Inc.",
+    "price": "76.04",
+    "change": "-0.79",
+    "percentageChange": "-1.03%",
+    "volume": "24.962M"
+  },
+  {
+    "symbol": "CLSK",
+    "name": "CleanSpark, Inc.",
+    "price": "16.93",
+    "change": "-0.99",
+    "percentageChange": "-5.52%",
+    "volume": "26.555M"
+  },
+  {
+    "symbol": "LCID",
+    "name": "Lucid Group, Inc.",
+    "price": "2.7500",
+    "change": "+0.1100",
+    "percentageChange": "+4.17%",
+    "volume": "27.051M"
+  },
+  {
+    "symbol": "BAC",
+    "name": "Bank of America Corporation",
+    "price": "40.93",
+    "change": "+0.92",
+    "percentageChange": "+2.30%",
+    "volume": "34.466M"
+  },
+  {
+    "symbol": "VALE",
+    "name": "Vale S.A.",
+    "price": "11.14",
+    "change": "-0.06",
+    "percentageChange": "-0.54%",
+    "volume": "25.213M"
+  },
+  {
+    "symbol": "WBA",
+    "name": "Walgreens Boots Alliance, Inc.",
+    "price": "11.57",
+    "change": "-0.01",
+    "percentageChange": "-0.09%",
+    "volume": "25.502M"
+  },
+  {
+    "symbol": "AAL",
+    "name": "American Airlines Group Inc.",
+    "price": "11.05",
+    "change": "+0.01",
+    "percentageChange": "+0.09%",
+    "volume": "22.428M"
+  },
+  {
+    "symbol": "WRK",
+    "name": "WestRock Company",
+    "price": "48.79",
+    "change": "-0.78",
+    "percentageChange": "-1.57%",
+    "volume": "17.488M"
+  },
+  {
+    "symbol": "ITUB",
+    "name": "Itaú Unibanco Holding S.A.",
+    "price": "5.79",
+    "change": "+0.06",
+    "percentageChange": "+1.11%",
+    "volume": "22.436M"
+  },
+  {
+    "symbol": "WBD",
+    "name": "Warner Bros. Discovery, Inc.",
+    "price": "7.20",
+    "change": "+0.10",
+    "percentageChange": "+1.41%",
+    "volume": "22.172M"
+  },
+  {
+    "symbol": "AIRC",
+    "name": "Apartment Income REIT Corp.",
+    "price": "39.08",
+    "change": "-0.01",
+    "percentageChange": "-0.03%",
+    "volume": "12.989M"
+  }
+]

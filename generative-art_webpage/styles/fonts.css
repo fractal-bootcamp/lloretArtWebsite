@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Amiri Quran';
+    src: url('/fonts/AmiriQuran-Regular.woff2') format('woff2'),
+         url('/fonts/AmiriQuran-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
